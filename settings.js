@@ -32,14 +32,14 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['94715166712'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
+global.owner = ['94754889456'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.pemilik = ['94754889456'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94754889456'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = '𝙱𝙾𝚃🤖' // Your name ඔබේ නම 
 global.botnma = '💃 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
-global.ownernma = '𝓓𝓪𝓻𝓴 𝓜𝓪𝓴𝓮𝓻' //ownernama,ownername
+global.ownernma = '⇝͜͡✪ஓீ͜ ᴅʜᴀɴᴀ ᴊᴀʏ࿌҈⍣࿐🌈' //ownernama,ownername
 global.packname = 'Queen Elisa Sticker' // Sticker package name 
-global.author = 'Dark Maker' // Sticker Autor name 
+global.author = 'Dhana💫Jay' // Sticker Autor name 
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
@@ -50,7 +50,11 @@ global.alive =`Hello i am alive now
 Download song type .yt 
 Thanks fro using...`
 // Welcome massage  ඔබට කැමති නම් මෙයට ඔබෙ welcome massage  එක යොදන්න 
-global.welcome = `
+global.welcome = `✌️සමූහයට සාදරෙන් පිළිගන්නවා🙂. ▓මෙම සමූහය තුල▓ *▓╔ගෲප්╗ ╔ලින්ක්╗▓⚠✓  ▓╚කුනුහර්ප╝▓☠✓* *▓╦වලි╦ ☢▓තහනම්🚷░✓* ‍ ~යම් කඩකිරීමක් සිදුවුන හොත් සාමාජිකත්වය අහෝසි  කරනවා~⚠️️
+
+🚮🚷🙂.
+
+🚮🚷🙂.
 🌀 Thanks Fro using sl zim bot
 ✾ Some bugs fixing
 😼♥️
@@ -60,7 +64,7 @@ global.sendwelcome = `add`
 // Good bye එක ඔනි නම් remove කියලා දාන්න
 global.sendgoodbye = `remove`
 // Caption 
-global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐌𝐃`
+global.cap = `© powᵉʳᵉᵈ ᴮʸ 😈🤖𝘿𝙝𝙖𝙣𝙖💥𝙅𝙖𝙮🤖😈₂₀₂₂`
 global.mess = {
     success: '✅ Done!',
     admin: 'you must be admin to use this cmd!',
